@@ -48,7 +48,6 @@ public class Main
             System.out.println(m.getKey()+ " "+ m.getValue());
         }
         System.out.println("\n after invoking replace  All method with 40");
-        
         q.replaceAll((k,v)->40);
         for(Map.Entry m:q.entrySet())
         {
