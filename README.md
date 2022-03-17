@@ -1,5 +1,23 @@
 # HashMap2
 Complete view on HashMap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.util.*;
 public class Main
 {
