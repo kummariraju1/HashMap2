@@ -17,7 +17,7 @@ public class Main
         q.putIfAbsent(4,23);
         q.putIfAbsent(2,33);
         System.out.println("after invoking putIfAbsent method in java");
-        //second statement is not added to map because already that key is present in that
+        //second statement is not added to map because already that key is present in thath
          for(Map.Entry m:q.entrySet())
         {
             System.out.println(m.getKey()+ " "+ m.getValue());
